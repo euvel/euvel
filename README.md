@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @euvel
+- 👀 I’m interested in Devops!
+- 🌱 I’m currently learning K8s
+- 📫 How to reach me m.qojavand@pm.me
